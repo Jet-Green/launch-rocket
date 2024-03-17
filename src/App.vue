@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <Cosmo />
     </v-main>
   </v-app>
 </template>

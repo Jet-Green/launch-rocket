@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "@mdi/font": "7.0.96",
+    "gsap": "^3.12.5",
     "roboto-fontface": "*",
+    "three": "^0.162.0",
     "vue": "^3.3.0",
     "vue-router": "^4.3.0",
     "vuetify": "^3.0.0"
